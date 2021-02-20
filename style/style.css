@@ -137,7 +137,7 @@ section {
   background-color: #2857a4;
 }
 .skill-name span {
-  color: #302f30;
+  color: #e6e6fa;
   font-size: 1rem;
   margin-left: 10px;
 }
@@ -148,7 +148,7 @@ section {
   align-items: left;
 }
 .fifty-percent {
-  width: 50%;
+  width: 55%;
   height: inherit;
 }
 .mb-orange {
@@ -162,7 +162,7 @@ section {
   background-color: #93738c;
 }
 .thirty-percent {
-  width: 30%;
+  width: 40%;
   height: inherit;
 }
 .eighty-percent {
